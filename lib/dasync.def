@@ -1,8 +1,8 @@
 ;
-; Definition file for the DLL version of the engines\dasync library from OpenSSL
+; Definition file for the DLL version of the dasync library from OpenSSL
 ;
 
-LIBRARY         "engines\dasync"
+LIBRARY         "dasync"
 
 EXPORTS
     bind_engine

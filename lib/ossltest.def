@@ -1,8 +1,8 @@
 ;
-; Definition file for the DLL version of the engines\ossltest library from OpenSSL
+; Definition file for the DLL version of the ossltest library from OpenSSL
 ;
 
-LIBRARY         "engines\ossltest"
+LIBRARY         "ossltest"
 
 EXPORTS
     bind_engine

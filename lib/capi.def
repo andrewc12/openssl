@@ -1,8 +1,8 @@
 ;
-; Definition file for the DLL version of the engines\capi library from OpenSSL
+; Definition file for the DLL version of the capi library from OpenSSL
 ;
 
-LIBRARY         "engines\capi"
+LIBRARY         "capi"
 
 EXPORTS
     bind_engine
